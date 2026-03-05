@@ -1,5 +1,5 @@
-# Debouncer-email
-Ultra Email Checker (Selenium Based) A high-performance, multi-threaded Python script designed to verify if a list of email addresses is registered or valid on specific platforms. This tool utilizes Selenium Automation to simulate real user behavior and bypass basic bot detection.
+📧 Debouncer-Email 🚀
+Debouncer-Email is a high-performance, multi-threaded Python tool designed for rapid email verification. Using Selenium Automation, it simulates real human behavior to bypass bot detection systems and verify email registration status across platforms.
 Ultra Email Checker (Selenium Based)
 A high-performance, multi-threaded Python script designed to verify if a list of email addresses is registered or valid on specific platforms. This tool utilizes Selenium Automation to simulate real user behavior and bypass basic bot detection.
 🚀 Features
